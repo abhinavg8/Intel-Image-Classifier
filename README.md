@@ -8,6 +8,6 @@ This is a image classifier that classifies images into 6 classes --> Buildings, 
         * Transfer learning with Resnet50
         
         
-#### Sourcer -- 
+#### Source -- 
 https://www.kaggle.com/puneet6060/intel-image-classification/version/2#10004.jpg
       
