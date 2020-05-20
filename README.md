@@ -7,6 +7,8 @@ This is a image classifier that classifies images into 6 classes --> Buildings, 
         * Transfer learning with InceptionV3 (85% max accuracy)
         * Transfer learning with Resnet50
         
+### Please Do check out predictions.ipynb
+        
         
 #### Source -- 
 https://www.kaggle.com/puneet6060/intel-image-classification/version/2#10004.jpg
